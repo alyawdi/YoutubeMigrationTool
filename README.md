@@ -1,2 +1,2 @@
 # YoutubeMigrationTool
-A YouTube data migration tool that helps transfer subscriptions and watch later videos between YouTube accounts. Built using Python, Selenium for web automation.
+A Python automation tool that transfers your YouTube subscriptions and Watch Later videos between accounts using Selenium and undetected ChromeDriver. Features smart web scraping with multiple selector strategies, interactive fallback modes for reliability, and step-by-step guidance to migrate your curated content seamlessly. Perfect for users switching YouTube accounts who want to preserve their subscriptions and playlists without hours of manual work.
